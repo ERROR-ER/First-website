@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap');
+.b1{
+    color: rgb(255, 255, 255);
+    width: 150px;
+    height: 70px;
+    font-size: 2rem;
+    border-color: aqua;
+   
+    
+}
+*{
+font-family:"Nunito";
+background-color: black;
+position: absolute;
+}
+
+h1{
+    left: 690px;
+    color:aliceblue;
+    font-size: 3rem;
+
+}
+
+.b2{
+    color: rgb(255, 255, 255);
+    width: 150px;
+    height: 70px;
+    font-size: 2rem;
+    border-color: aqua;
+    left: 160px;
+}
+
+.b2:hover{
+    cursor: pointer;
+    color: rgb(255, 0, 0);
+}
+
+.b1:hover{
+    cursor: pointer;
+    color: rgb(255, 0, 0);
+    
+    
+}
+
+.r3{
+top: 110px;
+color: rgb(255, 255, 255);
+white-space: nowrap;
+}
+
+.r2{
+    top: 80px;
+    color: rgb(255, 255, 255);
+    white-space: nowrap;
+}
+
+.b3{
+    color: rgb(255, 255, 255);
+    width: 150px;
+    height: 70px;
+    font-size: 2rem;
+    border-color: aqua;
+    left: 320px;
+
+}
+.b3:hover{
+    cursor: pointer;
+    color: rgb(255, 0, 0);
+}
+
+.r4{
+    color: rgb(255, 255, 255);
+    top: 140px;
+    white-space: nowrap;
+}
+
+.b4{
+    color: rgb(255, 255, 255);
+    width: 150px;
+    height: 70px;
+    font-size: 2rem;
+    border-color: aqua;
+    left: 480px;
+}
+
+.b4:hover{
+    cursor: pointer;
+    color: rgb(255, 0, 0);
