@@ -16,6 +16,7 @@ position: absolute;
 
 h1{
     left: 690px;
+    top: 70px;
     color:aliceblue;
     font-size: 3rem;
 
@@ -86,3 +87,18 @@ white-space: nowrap;
 .b4:hover{
     cursor: pointer;
     color: rgb(255, 0, 0);
+}
+
+.b5{
+    color: rgb(255, 255, 255);
+    width: 150px;
+    height: 70px;
+    font-size: 2rem;
+    border-color: aqua;
+    left: 640px;
+}
+
+.b4:hover{
+    cursor: pointer;
+    color: rgb(255, 0, 0);
+}
